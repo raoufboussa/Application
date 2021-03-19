@@ -21,7 +21,7 @@ django-mathfilters==0.4.0
 django-model-utils==3.1.2
 django-stubs==1.2.0
 djangocms-installer==1.0.2
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 djangorestframework-stubs==0.4.2
 facebook-business==5.0.2
 idna==2.8
