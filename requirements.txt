@@ -27,7 +27,7 @@ facebook-business==5.0.2
 idna==2.8
 isort==4.3.17
 itypes==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 kombu==4.2.1
 lazy-object-proxy==1.4.3
 libqutrub==1.2.1
